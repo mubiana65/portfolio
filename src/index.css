@@ -1,0 +1,13 @@
+/* src/styles/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom hover-shadow */
+.shadow-hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out;
+}
+.shadow-hover:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+}
