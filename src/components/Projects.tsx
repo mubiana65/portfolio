@@ -3,6 +3,7 @@ import React from "react";
 import A from '../a.png'
 import B from '../b.png'
 import C from '../c.png'
+import D from '../d.png'
 
 export const Projects: React.FC = () => {
   return (
@@ -27,7 +28,7 @@ export const Projects: React.FC = () => {
           {
             title: "LOAN MANAGEMENT",
             description: "loan management",
-            image: B,
+            image: D,
             link:'https://loan-system-brown.vercel.app/'
           },
           {
