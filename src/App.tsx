@@ -11,9 +11,13 @@ const App: React.FC = () => {
   return (
     <Router>
       <Header />
+      <Home/>
+      <About/>
+      <Projects/>
+      <Contact/>
       <main className="pt-16"> {/* Add padding to prevent overlap with the header */}
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
