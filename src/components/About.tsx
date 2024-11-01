@@ -5,7 +5,7 @@ import M from "../m.jpg"; // Replace with your image path
 
 const educationData = [
   {
-    degree: "Bachelor of Science in Computer Engineering",
+    degree: "Bachelor of Engineering in Computer Science",
     institution: "Student : DMI ST-EUGENE UNIVERSITY",
     year: "2021-2025",
   },
