@@ -25,6 +25,12 @@ export const Projects: React.FC = () => {
             link:'https://technova-flax.vercel.app/'
           },
           {
+            title: "LOAN MANAGEMENT",
+            description: "loan management",
+            image: B,
+            link:'https://loan-system-brown.vercel.app/'
+          },
+          {
             title: "ELEVATECRAFT GENERAL DEALERS",
             description: "mobile app",
             image: C,
