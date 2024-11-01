@@ -29,7 +29,7 @@ export const Projects: React.FC = () => {
             title: "LOAN MANAGEMENT",
             description: "loan management",
             image: D,
-            link:'https://loan-system-brown.vercel.app/'
+            link:'https://loan-system-ten.vercel.app/'
           },
           {
             title: "ELEVATECRAFT GENERAL DEALERS",
